@@ -6,7 +6,6 @@ Please use node version 10.9.0
 
 * babel
 * express
-* hbs
 * react
 * webpack
 * nodemon
