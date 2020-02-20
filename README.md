@@ -25,7 +25,7 @@ Components.
 
 In another Terminal window; run the build files to generate the React scripts to render the UI on the Client side.
 
-### Use the Chat APp
+### Use the Chat App
 
 Once the server is running and webpack creates the bundle for the React scripts please access the UI through:
 
