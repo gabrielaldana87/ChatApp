@@ -25,11 +25,14 @@ Components.
 
 In another Terminal window; run the build files to generate the React scripts to render the UI on the Client side.
 
-### Use the API
+### Use the Chat APp
 
 Once the server is running and webpack creates the bundle for the React scripts please access the UI through:
 
 http://localhost:4000/
+
+In the first input box, type in your name. In the second input box you can submit messages. Users who log in are
+accounted for in the server and a color is assigned to each user.
 
 ### Future Work
 
